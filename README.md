@@ -4,7 +4,7 @@
 - 🌱 Cursando Engenharia de Software pela Uniasselvi e desenvolvedor fullstack pela Rocketseat
 - 📫 Contrate-me email: leonardo27.laurindo@gmail.com
 - 😄 Pronouns: ele/dele
-- 🖊️ Meu portfólio: https://www.linkedin.com/feed/update/urn:li:activity:7262497311405084672/
+- 🖊️ Meu portfólio: https://szarblewski14.github.io/Portif-lioDev/
 
 
   <div style="text-align: center;" align="center">
