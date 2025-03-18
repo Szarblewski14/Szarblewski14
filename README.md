@@ -1,8 +1,8 @@
 ## Olá, eu sou Leonardo Szarblewski 👋
 
-- 💻 Atualmente trabalho em projetos pessoais
-- 🌱 Cursando Engenharia de Software pela Uniasselvi e desenvolvedor fullstack pela Rocketseat
-- 📫 Contrate-me email: leonardo27.laurindo@gmail.com
+- 💻 Atualmente trabalho na Compliance Station
+- 🌱 Cursando Engenharia de Software pela Uniasselvi 
+- 📫 email para contato: leonardo27.laurindo@gmail.com
 - 😄 Pronouns: ele/dele
 - 🖊️ Meu portfólio: https://szarblewski14.github.io/Portif-lioDev/
 
